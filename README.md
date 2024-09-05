@@ -31,7 +31,7 @@ git clone https://github.com/suditisoni1/Language-Translator.git
 
 ## Demo
 
-For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo]
+For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo]https://suditisoni1.github.io/Language-Translator/
 
 ## Feedback and Contributions
 
